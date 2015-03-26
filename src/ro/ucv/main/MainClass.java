@@ -7,7 +7,6 @@ public class MainClass {
 	 */
 	public static void main(String[] args) {
 	
-		// initialize the main gui
 		MainGUI m=new MainGUI();
 
 	}
